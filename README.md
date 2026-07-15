@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am a second-year engineering student  passionate about becoming <br>a software engineer. Currently, I am practicing<br> Data Structures and Algorithms using Java and Python <br>while exploring AI/ML development.<br> I enjoy working on both front-end and back-end technologies<br> to build complete applications. This repository documents <br>my DSA learning journey, coding practice, and projects.<br> I believe in continuous learning, problem solving, and <br>building impactful technology. 🚀<br><br>
+I am a Third-year engineering student  passionate about becoming <br>a software engineer. Currently, I am practicing<br> Data Structures and Algorithms using Java and Python <br>while exploring AI/ML development.<br> I enjoy working on both front-end and back-end technologies<br> to build complete applications. This repository documents <br>my DSA learning journey, coding practice, and projects.<br> I believe in continuous learning, problem solving, and <br>building impactful technology. 🚀<br><br>
 
 
 ## 🌐 Socials:
