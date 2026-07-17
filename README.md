@@ -95,18 +95,18 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=jhanakjain22-lab&show_icons=true&theme=tokyonight&hide_border=true"/>
-  <img height="170" src="https://streak-stats.demolab.com?user=jhanakjain22-lab&theme=tokyonight&hide_border=true"/>
+  <img height="200" src="https://github-readme-stats.vercel.app/api?username=jhanakjain22-lab&show_icons=true&theme=tokyonight&hide_border=true"/>
+  <img height="200" src="https://streak-stats.demolab.com?user=jhanakjain22-lab&theme=tokyonight&hide_border=true"/>
 </p>
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jhanakjain22-lab&layout=compact&theme=tokyonight&hide_border=true"/>
+  <img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jhanakjain22-lab&layout=compact&theme=tokyonight&hide_border=true"/>
 </p>
 
 ## 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=jhanakjain22-lab&theme=tokyonight&no-frame=true&row=1&column=6"/>
+  <img width="90%" src="https://github-profile-trophy.vercel.app/?username=jhanakjain22-lab&theme=tokyonight&no-frame=true&row=2&column=4&margin-w=15&margin-h=15"/>
 </p>
 
 ## 📈 Contribution Graph
@@ -119,13 +119,13 @@
 
 <p align="left">
   <a href="https://www.linkedin.com/in/jhanak-jain-692635323/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=linkedin"/>
+    <img height="50" src="https://skillicons.dev/icons?i=linkedin"/>
   </a>
   <a href="https://leetcode.com/u/Jhanak_jain_26/" target="_blank">
-    <img src="https://cdn.simpleicons.org/leetcode"/>
+    <img height="50" src="https://cdn.simpleicons.org/leetcode/FFA116"/>
   </a>
   <a href="mailto:jhanakjain22@gmail.com">
-    <img src="https://skillicons.dev/icons?i=gmail"/>
+    <img height="50" src="https://skillicons.dev/icons?i=gmail"/>
   </a>
 </p>
 
