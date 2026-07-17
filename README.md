@@ -24,96 +24,90 @@
 
 <br>
 
-## 🛠 Tech Stack
+# 🛠 Tech Stack
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=java,python,js,html,css,react,tailwind,vite,nodejs,express,mysql,mongodb,git,github,vscode,postman,aws"/>
-</p>
+## 👨‍💻 Languages
 
-### 👨‍💻 Languages
 <p>
-  <img src="https://skillicons.dev/icons?i=java,python,javascript,html,css"/>
+<img src="https://skillicons.dev/icons?i=java,python,javascript,html,css"/>
 </p>
 
-### 🎨 Frontend
+## 🎨 Frontend
+
 <p>
-  <img src="https://skillicons.dev/icons?i=react,tailwind,bootstrap,vite"/>
+<img src="https://skillicons.dev/icons?i=react,tailwind,bootstrap,vite"/>
 </p>
 
-### 🗄 Database
+## 🗄 Database
+
 <p>
-  <img src="https://skillicons.dev/icons?i=mysql,mongodb"/>
+<img src="https://skillicons.dev/icons?i=mysql"/>
 </p>
 
-### 🛠 Tools
+## 🛠 Tools
+
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman"/>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman"/>
 </p>
 
-### ☁ Cloud
+## ☁ Cloud
+
 <p>
-  <img src="https://skillicons.dev/icons?i=aws"/>
+<img src="https://skillicons.dev/icons?i=aws"/>
 </p>
 
-<br>
+---
 
-## 📚 Currently Learning
+# 📚 Currently Learning
 
-- ✅ Advanced Data Structures & Algorithms
-- ✅ MERN Stack
-- ✅ AWS Cloud
-- ✅ AI APIs
-- ✅ Backend Development
+- ✔ Advanced Data Structures & Algorithms
+- ✔ MERN Stack
+- ✔ AWS Cloud
+- ✔ AI APIs
+- ✔ Backend Development
 
-<br>
+---
 
-## 🏆 Achievements
+# 🏆 Achievements
 
-- 🏅 NPTEL Java Certification
-- 🏅 175+ LeetCode Problems Solved
-- 🏅 Hackathon Participant
-- 🏅 Open Source Contributor (Learning)
+🏅 NPTEL Java Certification
 
-<br>
+🏅 175+ LeetCode Problems Solved
 
-## 📂 Featured Projects
+🏅 Hackathon Participant
+
+🏅 Open Source Contributor (Learning)
+
+---
+
+# 📂 Featured Projects
 
 ### 🛒 E-Commerce Website
-> Built with React • Tailwind CSS
+> React • Tailwind CSS
+
+---
 
 ### 🍔 Food Recipe App
-> Built with React • REST API integration
+> React • REST API
+
+---
 
 ### 💊 MediAlert
-> Smart healthcare project
+> Smart Healthcare Project
+
+---
 
 ### 📋 Todo App
-> Built with React Context API
+> React Context API
 
-<br>
+---
 
-## 📊 GitHub Stats
+# 📈 Contribution Graph
 
-<p align="center">
-  <img height="200" src="https://github-readme-stats.vercel.app/api?username=jhanakjain22-lab&show_icons=true&theme=tokyonight&hide_border=true"/>
-  <img height="200" src="https://streak-stats.demolab.com?user=jhanakjain22-lab&theme=tokyonight&hide_border=true"/>
-</p>
+[![Jhanak's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night)](https://github.com/jhanakjain22-lab)
 
-<p align="center">
-  <img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jhanakjain22-lab&layout=compact&theme=tokyonight&hide_border=true"/>
-</p>
+---
 
-## 🏆 GitHub Trophies
-
-<p align="center">
-  <img width="90%" src="https://github-profile-trophy.vercel.app/?username=jhanakjain22-lab&theme=tokyonight&no-frame=true&row=2&column=4&margin-w=15&margin-h=15"/>
-</p>
-
-## 📈 Contribution Graph
-
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=jhanakjain22-lab&theme=tokyo-night)](https://github.com/jhanakjain22-lab)
-
-<br>
 
 ## 📫 Connect With Me
 
