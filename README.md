@@ -101,13 +101,28 @@
 > React Context API
 
 ---
+## 📊 GitHub Stats
 
-# 📈 Contribution Graph
+<p align="center">
+  <img height="200" src="https://github-readme-stats.vercel.app/api?username=jhanakjain22-lab&show_icons=true&theme=tokyonight&hide_border=true"/>
+  <img height="200" src="https://streak-stats.demolab.com?user=jhanakjain22-lab&theme=tokyonight&hide_border=true"/>
+</p>
 
-[![Jhanak's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night)](https://github.com/jhanakjain22-lab)
+<p align="center">
+  <img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jhanakjain22-lab&layout=compact&theme=tokyonight&hide_border=true"/>
+</p>
 
----
+## 🏆 GitHub Trophies
 
+<p align="center">
+  <img width="90%" src="https://github-profile-trophy.vercel.app/?username=jhanakjain22-lab&theme=tokyonight&no-frame=true&row=2&column=4&margin-w=15&margin-h=15"/>
+</p>
+
+## 📈 Contribution Graph
+
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=jhanakjain22-lab&theme=tokyo-night)](https://github.com/jhanakjain22-lab)
+
+<br>
 
 ## 📫 Connect With Me
 
