@@ -16,9 +16,6 @@
 ### 🚀 Frontend Developer • Java Developer • DSA Enthusiast • AI/ML Learner
 
 🎓B.Tech CSE @ Galgotias College of Engineering & Technology (2028)**
-
-
-
 </div>
 
 ---
