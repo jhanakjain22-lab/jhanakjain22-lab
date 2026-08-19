@@ -107,6 +107,7 @@ The Daily Grind is a modern full-stack café website that allows customers to ex
 🔑 Secure Authentication
 📱 Responsive & User-Friendly Interface
 ⚡ RESTful API with Node.js & Express
+<a href="https://the-daily-grind-cafesite.vercel.app/>The Daily Grind </a>
 
 ---
 
