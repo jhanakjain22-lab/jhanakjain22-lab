@@ -82,8 +82,9 @@
 
 # 📂 Featured Projects
 
-### 🛒 E-Commerce Website
-> React • Tailwind CSS
+NetworkPulse— real-time network traffic dashboard for Windows. Live bandwidth, protocol breakdown, per-app usage, ARP-based device radar, geo-located remote IPs, and port-scan/spike alerts, streamed to the browser via Socket.io. Falls back to simulated traffic if Npcap/admin access isn't available. Built with Node.js, Express, Chart.js.
+
+<a href="networkpulse.onrender.com/">networkpulse</a>
 
 ---
 
@@ -92,8 +93,20 @@
 
 ---
 
-### 💊 MediAlert
-> Smart Healthcare Project
+☕ The Daily Grind — Café Website
+
+The Daily Grind is a modern full-stack café website that allows customers to explore the menu, create an account, add items to their cart, place orders, and make secure online payments using Razorpay.
+
+✨ Features
+🔐 User Registration & Login
+☕ Dynamic Café Menu
+🛒 Add to Cart & Cart Management
+📦 Order Placement & Order History
+💳 Razorpay Payment Integration
+🗄️ SQLite Database
+🔑 Secure Authentication
+📱 Responsive & User-Friendly Interface
+⚡ RESTful API with Node.js & Express
 
 ---
 
