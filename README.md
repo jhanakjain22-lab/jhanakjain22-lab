@@ -107,12 +107,25 @@ The Daily Grind is a modern full-stack café website that allows customers to ex
 🔑 Secure Authentication
 📱 Responsive & User-Friendly Interface
 ⚡ RESTful API with Node.js & Express
-<a href="https://the-daily-grind-cafesite.vercel.app/>The Daily Grind </a>
+<a href="https://the-daily-grind-cafesite.vercel.app "/>The Daily Grind </a>
 
 ---
 
 ### 📋 Todo App
-> React Context API
+Our To-Do List is a simple and intuitive task management application designed to help users organize their daily activities efficiently.
+
+Users can easily **add, edit, complete, and delete tasks**, making it easier to keep track of important work and stay productive. The clean and user-friendly interface helps reduce clutter and keeps tasks organized in one place.
+
+### 🎯 Our Goal
+
+The goal of this project is to make everyday task management **simple, organized, and efficient**.
+
+Whether you're managing study tasks, personal activities, work assignments, or daily goals, this To-Do List helps you stay focused and get things done.
+
+**Plan your tasks. Stay organized. Get things done.**
+
+> <a href="https://todolistlocal-sigma.vercel.app "/>The Daily Grind </a>
+
 
 ---
 ## 📊 GitHub Stats
