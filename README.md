@@ -124,7 +124,7 @@ Whether you're managing study tasks, personal activities, work assignments, or d
 
 **Plan your tasks. Stay organized. Get things done.**
 
-> <a href="https://todolistlocal-sigma.vercel.app "/>The Daily Grind </a>
+> <a href="https://todolistlocal-sigma.vercel.app "/>To Do List </a>
 
 
 ---
